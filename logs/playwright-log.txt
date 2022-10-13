@@ -1,0 +1,152 @@
+{"level":30,"time":"2022-03-08T17:46:36.001Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Listening on 52511"}
+{"level":30,"time":"2022-03-08T17:46:36.038Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:36.038Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:36.041Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:36.041Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:36.046Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-03-08T17:46:37.219Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-03-08T17:46:37.224Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-03-08T17:46:37.225Z","pid":20868,"hostname":"Felipe-Atlas","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-03-08T17:46:37.241Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changed active context"}
+{"level":30,"time":"2022-03-08T17:46:37.434Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Video path: undefined"}
+{"level":30,"time":"2022-03-08T17:46:37.435Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changed active page"}
+{"level":30,"time":"2022-03-08T17:46:39.865Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method newPage"}
+{"level":30,"time":"2022-03-08T17:46:39.872Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-08T17:46:39.872Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-03-08T17:46:39.904Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-08T17:46:39.907Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-08T17:46:39.907Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-03-08T17:46:39.921Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-08T17:46:39.923Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method click"}
+{"level":30,"time":"2022-03-08T17:46:39.923Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with text=Entrar in page."}
+{"level":30,"time":"2022-03-08T17:46:39.997Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method click"}
+{"level":30,"time":"2022-03-08T17:46:40.003Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:40.004Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.153Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.154Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.172Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.172Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.184Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.184Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.203Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.203Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.216Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.216Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.235Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.235Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.252Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.252Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.267Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.267Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.284Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.284Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.311Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.311Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.322Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.322Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.341Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.342Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.359Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.359Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.373Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.373Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.384Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.384Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.404Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.404Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.414Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.414Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.437Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.438Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.452Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.452Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.467Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.467Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.478Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.478Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.499Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.499Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.510Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.510Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.531Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.531Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.576Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.576Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.590Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.590Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.611Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.611Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.638Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.638Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.711Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.711Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.733Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.733Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.745Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.745Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.762Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.762Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.772Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.772Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.793Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.793Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.806Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.806Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.825Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.825Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.863Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.863Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.888Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.888Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.941Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.941Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.967Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:41.967Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:41.979Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:41.979Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.001Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.001Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:42.017Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:42.017Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.032Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.032Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:42.049Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:42.049Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.062Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.062Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:42.073Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:42.073Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.094Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.094Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:42.109Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:42.109Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.126Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.126Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:42.143Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:42.143Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.155Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.155Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-03-08T17:46:42.163Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2022-03-08T17:46:42.163Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-08T17:46:42.166Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-03-08T17:46:42.273Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-03-08T17:46:42.288Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:42.290Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:42.292Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changed active context"}
+{"level":30,"time":"2022-03-08T17:46:42.292Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-08T17:46:42.293Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changed active page"}
+{"level":30,"time":"2022-03-08T17:46:42.296Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:42.298Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:42.300Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-08T17:46:42.301Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-08T17:46:42.302Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-08T17:46:42.302Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-08T17:46:42.306Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changed active context"}
+{"level":30,"time":"2022-03-08T17:46:42.306Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-08T17:46:42.306Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Changed active page"}
+{"level":30,"time":"2022-03-08T17:46:42.307Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-03-08T17:46:42.332Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-03-08T17:46:42.337Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:42.338Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-08T17:46:42.393Z","pid":20868,"hostname":"Felipe-Atlas","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-03-08T17:46:42.832Z","pid":20868,"hostname":"Felipe-Atlas","msg":"End of node method closeAllBrowsers"}
